@@ -1,2 +1,2 @@
-# train-student-pdfs
+# Train-student
 
